@@ -3,12 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <div>
+    <div className='App'>
       <h1>Mi primera aplicación</h1>
       <p>Esta es mi primera aplicación en React, está padrísimo!</p>
-      </div>
-   
     </div>
   );
 }
